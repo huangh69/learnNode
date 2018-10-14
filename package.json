@@ -1,0 +1,23 @@
+{
+  "name": "learnnode",
+  "version": "1.0.0",
+  "description": "learnNode",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node KOA/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangh69/learnNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huangh69/learnNode/issues"
+  },
+  "homepage": "https://github.com/huangh69/learnNode#readme",
+  "dependencies": {
+    "koa": "^2.5.3"
+  }
+}
